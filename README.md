@@ -1,5 +1,7 @@
 # erftesting
 
+[![Build Status](https://travis-ci.com/thales-e-security/erftesting.svg?branch=master)](https://travis-ci.com/thales-e-security/erftesting)
+
 Contains example and benchmark code for the two ephemeral random fingerprint (ERF) projects, [erfserver](https://github.com/thales-e-security/erfserver) and [erfclient](https://github.com/thales-e-security/erfclient).
 
 An example client application is provided in `client/main.go`, which periodically pushes requests to the example server application in `server/main.go`. Each request includes an ERF, which allows the server to identify the client and count operations.
