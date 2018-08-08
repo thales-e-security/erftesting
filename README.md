@@ -8,7 +8,7 @@ The server offers a simple web interface to view the count of current clients.
 
 ## Building the Tests
 
-You will need to [install Go](https://golang.org/doc/install) and [install dep](https://github.com/golang/dep#installation) if you haven't already go them.
+You will need to [install Go](https://golang.org/doc/install) and [install dep](https://github.com/golang/dep#installation) if you haven't already got them.
 
 
 ```bash
