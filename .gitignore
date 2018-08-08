@@ -1,0 +1,5 @@
+vendor
+
+# Binaries built by the makefile
+testclient
+testserver
